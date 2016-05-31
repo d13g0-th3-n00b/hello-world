@@ -1,5 +1,5 @@
 # hello-world
-My first git-hub repository
+My first git-hub repository - and I plan for it not to be the last.
 
 Dark as the night that covers me
 Black as the pit from pole to pole
